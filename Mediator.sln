@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{EA6F6D8A-207E-4906-AF0A-4198BDE9DFE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra\Infra.csproj", "{F01BA93C-1F9A-4B90-B9F4-0CC8906D5677}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediator.csproj", "{B7C58F7C-5A49-411B-8617-EB4B485A5918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6F6D8A-207E-4906-AF0A-4198BDE9DFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6F6D8A-207E-4906-AF0A-4198BDE9DFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6F6D8A-207E-4906-AF0A-4198BDE9DFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6F6D8A-207E-4906-AF0A-4198BDE9DFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01BA93C-1F9A-4B90-B9F4-0CC8906D5677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01BA93C-1F9A-4B90-B9F4-0CC8906D5677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01BA93C-1F9A-4B90-B9F4-0CC8906D5677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01BA93C-1F9A-4B90-B9F4-0CC8906D5677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C58F7C-5A49-411B-8617-EB4B485A5918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C58F7C-5A49-411B-8617-EB4B485A5918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C58F7C-5A49-411B-8617-EB4B485A5918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C58F7C-5A49-411B-8617-EB4B485A5918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA780252-461F-4515-8F67-A9F3518084F0}
+	EndGlobalSection
+EndGlobal
